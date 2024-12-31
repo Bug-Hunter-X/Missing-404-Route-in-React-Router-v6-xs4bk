@@ -1,0 +1,1 @@
+This bug demonstrates a common issue in React Router v6 where the application lacks a route to handle 404 errors. This leads to unexpected behavior when a user navigates to a non-existent page. The solution includes adding a catch-all route to display a 404 error page.
